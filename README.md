@@ -1,6 +1,6 @@
 # 👋🏼 Hello World! I'm Algo – A Passionate Web Developer from Morocco 🇲🇦
 
-🛠️ Currently building my own [webpage](https://www.tobiasmeyhoefer.de)  
+🛠️ Currently building my own [webpage]()  
 🎓 Studying Media-Based Computer Science @ Berliner Hochschule für Technik  
 💻 Web Developer since 2022  
 🎥 Sharing knowledge on YouTube: *Tobi Tackles Tech*
