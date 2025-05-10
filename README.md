@@ -9,22 +9,14 @@
 
 ## 💡 About My Tech Journey
 
-I'm a full-stack web developer with a strong passion for creating interactive, responsive, and efficient web applications. Here's a glimpse of what I love working with:
+I'm a full-stack developer from Morocco 🇲🇦 focused on building clean, fast, and responsive web apps.  
+Here are some of the technologies I enjoy working with:
 
-### ⚛️ React  
-Building dynamic frontends using components, hooks, and context to create responsive SPAs.
-
-### 🧠 JavaScript  
-The heart of every modern web project I build — from frontend interactivity to backend APIs.
-
-### ☕ Java  
-My foundation in OOP and backend development, used in various academic and personal projects.
-
-### 🎨 HTML & CSS  
-Crafting accessible, semantic HTML paired with elegant, responsive CSS using Flexbox, Grid, and modern tools like Tailwind.
-
-### 💾 SQL  
-Experience with both relational databases like **PostgreSQL** and **Microsoft SQL Server**, as well as working with **MongoDB** for NoSQL.
+- ⚛️ **React** – Component-based UIs with hooks & context  
+- 🧠 **JavaScript** – My go-to for both frontend & backend logic  
+- ☕ **Java** – Solid OOP foundations for backend systems  
+- 🎨 **HTML & CSS** – Semantic layouts & modern styling with Tailwind  
+- 💾 **SQL & NoSQL** – PostgreSQL, MSSQL & MongoDB for data handling
 
 ---
 
