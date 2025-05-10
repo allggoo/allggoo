@@ -1,6 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-# 👋🏼 Hello World! I'm Tobi – A Passionate Web Developer from Germany
+# 👋🏼 Hello World! I'm Algo – A Passionate Web Developer from Morocco 🇲🇦
 
 🛠️ Currently building my own [webpage](https://www.tobiasmeyhoefer.de)  
 🎓 Studying Media-Based Computer Science @ Berliner Hochschule für Technik  
@@ -13,19 +11,19 @@
 
 I'm a full-stack web developer with a strong passion for creating interactive, responsive, and efficient web applications. Here's a glimpse of what I love working with:
 
-### ⚛️ React
+### ⚛️ React  
 Building dynamic frontends using components, hooks, and context to create responsive SPAs.
 
-### 🧠 JavaScript
+### 🧠 JavaScript  
 The heart of every modern web project I build — from frontend interactivity to backend APIs.
 
-### ☕ Java
+### ☕ Java  
 My foundation in OOP and backend development, used in various academic and personal projects.
 
-### 🎨 HTML & CSS
+### 🎨 HTML & CSS  
 Crafting accessible, semantic HTML paired with elegant, responsive CSS using Flexbox, Grid, and modern tools like Tailwind.
 
-### 💾 SQL
+### 💾 SQL  
 Experience with both relational databases like **PostgreSQL** and **Microsoft SQL Server**, as well as working with **MongoDB** for NoSQL.
 
 ---
