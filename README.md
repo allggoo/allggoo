@@ -1,7 +1,5 @@
 # 👋🏼 Hello World! Im Algo
 
-## 💡 About My Tech Journey
-
 > Developer with a focus on Discord bot dev, scalable systems, and creative projects.
 >  Always curious and excited to push code to the next level.
 
