@@ -2,8 +2,7 @@
 
 ## 💡 About My Tech Journey
 
-I'm a full-stack developer from Morocco 🇲🇦 focused on building clean, fast, and responsive web apps.  
-Here are some of the technologies I enjoy working with:
+> Developer with a focus on Discord bot dev, scalable systems, and creative projects. Always curious and excited to push code to the next level.
 
 ## 🧰 Tech Stack & Tools
 
