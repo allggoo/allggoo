@@ -12,14 +12,6 @@
 I'm a full-stack developer from Morocco 🇲🇦 focused on building clean, fast, and responsive web apps.  
 Here are some of the technologies I enjoy working with:
 
-- ⚛️ **React** – Component-based UIs with hooks & context  
-- 🧠 **JavaScript** – My go-to for both frontend & backend logic  
-- ☕ **Java** – Solid OOP foundations for backend systems  
-- 🎨 **HTML & CSS** – Semantic layouts & modern styling with Tailwind  
-- 💾 **SQL & NoSQL** – PostgreSQL, MSSQL & MongoDB for data handling
-
----
-
 ## 🧰 Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
