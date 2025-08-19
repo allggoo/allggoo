@@ -21,4 +21,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-[![Join Apex Dev Discord](https://img.shields.io/badge/Join-Apex_Dev-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+[![Join Apex Dev Discord]([https://img.shields.io/badge/Join-Apex_Dev-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://cdn.discordapp.com/attachments/1407390189688459297/1407394995656327218/b9fea93569df5e0d51a306faf08863cd.jpg?ex=68a5f23b&is=68a4a0bb&hm=25da341b719b61a993001edfabd3274b95d95ccd3edcf8ce593b38041f5acf54&))]([https://discord.gg/your-invite-link](https://discord.gg/N9uybzcMwM))
