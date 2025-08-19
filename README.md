@@ -4,7 +4,7 @@
 
 > Developer with a focus on Discord bot dev, scalable systems, and creative projects. Always curious and excited to push code to the next level.
 
-## 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
