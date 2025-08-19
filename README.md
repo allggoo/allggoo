@@ -1,4 +1,4 @@
-# 👋🏼 Hello World! I'm Algo – A Passionate Web Developer from Morocco 🇲🇦
+# 👋🏼 Hello World! Im Algo
 
 ## 💡 About My Tech Journey
 
